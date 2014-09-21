@@ -1,0 +1,135 @@
+body {
+	margin-top:20px; 
+    padding-top: 40px;
+    font-family: 'Montserrat', sans-serif;
+    background-color:#ecf4fa;
+    height: 100%;
+}
+
+
+ 
+.form-signup, .form-signin {
+    width: 400px;
+    margin: 0 auto;
+}
+
+label{
+	margin-top: 8px;
+}
+
+select{
+	margin-bottom: 18px;
+}
+
+.logo{
+	font-family: 'Bangers', cursive;
+	font-size: 58px;
+	background-color: #fff;
+	margin-bottom: 0px;
+	letter-spacing: 0.019em;
+}
+
+.logo-footer{
+	font-family: 'Bangers', cursive;
+	font-size: 46px;
+	background-color: #fff;
+	border-top: 1px solid;
+	border-color:rgba(230,237,255,0.4);
+	text-align: center;	
+}
+
+.header{
+}
+
+	
+
+.button-login{
+	margin-top: 14px;
+}
+
+.form-control{
+	margin-top: 6px;
+}
+
+.nav{
+	background-color: #fff;
+}
+
+.content{
+	margin-top: 100px;
+}
+
+p.logo-footer{
+	margin-top: 40px;
+}
+
+.img-grid{
+
+	margin-right: 10px;	
+}
+
+.img-block{
+	height: 400px;
+	float: left;	
+}
+
+.img-show{
+	margin-bottom: 6px;
+}
+
+.description{
+	margin-bottom: 24px;
+}
+
+.thumbnails{
+	border-top: solid  1px;
+	border-color:rgba(230,237,255,0.4);
+	padding-top: 10px;	
+}
+
+.album-header-fix {
+	margin-left: 14px;
+}
+
+.album-header {
+	color:#ffb3c8;
+	margin-bottom: 0px;
+}
+
+.note{
+	font-size: 18px;
+	color:#aaaaaa;
+	margin-bottom: 2px;
+}
+
+.img-edit{
+	margin-top: 24px;
+}
+
+.bild{
+	min-height: 240px;
+	max-height: 260px;
+}
+.img:hover{
+	cursor: pointer;
+}
+
+.delete_comment{
+	float:right;
+}
+
+.btn-edit{
+	margin-bottom: 6px;
+}
+
+.btn-create{
+	margin-top: 10px;
+}
+
+.container{
+	background-color:#fff;
+	min-height: 100%;
+height: auto !important;
+height: 100%;
+margin: 0 auto -4em;
+}
